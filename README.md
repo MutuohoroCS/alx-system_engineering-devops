@@ -1,1 +1,1 @@
-this repo contains solutions for alx 0x00 shell basics
+this repo contains solutions for alx-system engineering devops projects
